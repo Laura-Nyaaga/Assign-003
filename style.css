@@ -1,0 +1,24 @@
+table {
+    font-family: Arial;
+    background-color: antiquewhite;
+    border:solid 3px;
+    align-self: auto;
+    color: black;
+}
+.form{
+    border: solid 1px;
+    border-color: black;
+}
+.input{
+    padding: 12px 16px;
+    width: 80px;
+    border: solid 1px;
+}
+button{
+    padding: 6px 12px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    background-color:black(2, 135, 171);
+}
+
